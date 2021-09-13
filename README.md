@@ -1,12 +1,16 @@
 # Brendan O'Connell
 
-I recently graduated with a master's degree in Computer Engineering
+I recently graduated with a master's degree in Computer Engineering from Trinity College Dublin. 
 I have almost 2 years of professional experience in Angular development as a full-stack developer.
 I gained practical experience in machine learning and artificial intelligence through projects in university.
 Because of these experiences I have keen interests in web development, application development, machine learning and artificial intelligence.
 
 <!---
-##Web Development Experience
+## Web Development Experience
+--->
+
+<!---
+## AI Experience
 --->
 
 ## Current Projects
