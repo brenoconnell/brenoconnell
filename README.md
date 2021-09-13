@@ -13,7 +13,9 @@ Because of these experiences I have keen interests in web development, applicati
 I am currently teaching myself ReactJS to broaden my ability to create effective single-page applications
 
 ## Reach me
+
 Email: <brenoconnell6@gmail.com>
+
 LinkedIn: [Brendan O'Connell](https://www.linkedin.com/in/brendan-o-connell-9410aa218/)
 
 
