@@ -22,6 +22,8 @@ Email: <brenoconnell6@gmail.com>
 
 LinkedIn: [Brendan O'Connell](https://www.linkedin.com/in/brendan-o-connell-9410aa218/)
 
+Some of the work I completed in university is available on my Trinity College GitHub account [here](https://github.com/boconne3)
+
 
 <!---
 brenoconnell/brenoconnell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
